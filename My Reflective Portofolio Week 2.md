@@ -1,5 +1,5 @@
 # My 41189 Reflective Portfolio
-## Week 1
+## Week 2
 
 What have I learnt this week?
 This Week I learnt about the key attributes of a system
