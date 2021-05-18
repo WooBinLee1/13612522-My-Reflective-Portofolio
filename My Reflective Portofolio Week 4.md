@@ -2,10 +2,16 @@
 ## Week 4
 
 ### What have I learnt this week?
-We looked at the basics of various models and learnt about the implementation details of the models.
+This week we learnt specifically about models and the basics of each method. Furthermore, we looked at the basics of each method and discussed the implementation details of each model in our given groups. We also participated in a in class group activity where we developed a CLD (Casual loop diagram) depicting a given scenario. WIth this CLD we then created a stock flow model to determine the progress of our given event.
 
 ### What do I 'now know' that I did not before?
-Learned about the five phase process where it would start with problem structuring, then causal loop modelling, dynamic modelling, scenario planning and modelling then transition into implementation and organisational learning.
+I learnt many things this week including many different types of models as well as how to distinguish these models from others. I also learnt that there are three different ways to model complex adaptive systems;
+- System dynamics models
+- Networks models
+- Agent based models
+
+Additionally, we also learnt how to develop a basic casual loop diagram as well as create a stock flow model for a given scenario which in this case was covid 19.
+I also Learnt about the five phase process where it would start with problem structuring, then causal loop modelling, dynamic modelling, scenario planning and modelling then transition into implementation and organisational learning.
 
 ### What insights have I gained?
 An insight that I gained is that there are multiple common modes of behaviour and they all inhibit different fundamental behaviours like exponential growth, oscillation, etc.
